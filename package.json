@@ -2,7 +2,7 @@
   "name": "my-little-proxy",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-http-proxy": "^1.5.1",
     "http-proxy": "^1.17.0",
     "minimist": "^1.2.0"
